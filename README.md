@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuduThabi
 - 👀 I’m interested in Networks and Software engineering..
-- 🌱 I’m currently learning computing and specials with networks.
+- 🌱 I’m currently learning computing and specializing with networking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at lepekolanthabeleng@gmail.com...
 
